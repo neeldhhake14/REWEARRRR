@@ -1,0 +1,6 @@
+{
+  "name": "Rewear — Sustainable Fashion",
+  "description": "Rewear is a circular fashion platform. Rent designer pieces guilt-free, buy and sell verified pre-loved garments, and donate to vetted community causes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
